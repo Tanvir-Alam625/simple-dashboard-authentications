@@ -54,9 +54,12 @@ Start the server
 
 ## Screenshots
 
-![SignIn Page Screenshot](https://i.ibb.co/w4N5R8G/Annotation-2023-03-22-214823.png)
+![SignIn Page Screenshot]<img width="1896" height="959" alt="image" src="https://github.com/user-attachments/assets/f3a78e9c-c975-4063-bc6e-57aef3b84d41" />
 
-![SignUp Page Screenshot](https://i.ibb.co/XsKjKtk/Annotation-2023-03-22-215314.png)
 
-![Dashboard Screenshot](https://i.ibb.co/zRDqpqy/Annotation-2023-03-22-215001.png)
+![SignUp Page Screenshot]<img width="1896" height="959" alt="image" src="https://github.com/user-attachments/assets/7fa4ebf9-6129-4abc-821f-9df80692093a" />
+
+
+![Dashboard Screenshot]<img width="880" height="403" alt="image" src="https://github.com/user-attachments/assets/f3dc8bef-95f9-42d9-b372-5ab1c9e46d88" />
+
 
