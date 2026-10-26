@@ -54,12 +54,12 @@ Start the server
 
 ## Screenshots
 
-![SignIn Page Screenshot]<img width="1896" height="959" alt="image" src="https://github.com/user-attachments/assets/f3a78e9c-c975-4063-bc6e-57aef3b84d41" />
+<img width="1896" height="959" alt="image" src="https://github.com/user-attachments/assets/f3a78e9c-c975-4063-bc6e-57aef3b84d41" />
 
 
-![SignUp Page Screenshot]<img width="1896" height="959" alt="image" src="https://github.com/user-attachments/assets/7fa4ebf9-6129-4abc-821f-9df80692093a" />
+<img width="1896" height="959" alt="image" src="https://github.com/user-attachments/assets/7fa4ebf9-6129-4abc-821f-9df80692093a" />
 
 
-![Dashboard Screenshot]<img width="880" height="403" alt="image" src="https://github.com/user-attachments/assets/f3dc8bef-95f9-42d9-b372-5ab1c9e46d88" />
+<img width="880" height="403" alt="image" src="https://github.com/user-attachments/assets/f3dc8bef-95f9-42d9-b372-5ab1c9e46d88" />
 
 
